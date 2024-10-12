@@ -1,0 +1,6 @@
+@GraphQLDapperExample_HostAddress = http://localhost:5196
+
+GET {{GraphQLDapperExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
